@@ -15,7 +15,7 @@ This is the 13th challenge for the UW Coding bootcamp. This is a command-line ap
 
 Below shows an example of JSON data being displayed given the type of api request
 
-![](./assets/images/screenshot.PNG)
+![](./assets/screenshot.PNG)
   
 ## Questions
 Any Questions? Please reachout to me at jkasahara206@gmail.com
